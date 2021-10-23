@@ -1,0 +1,2 @@
+name    age    gender    flightno   fair   seatno    origin    destination    referenceno     
+1   1    1     pk402   5027     0     1     1       90927
